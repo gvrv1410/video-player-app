@@ -1,0 +1,3 @@
+export const ADD_VIDEO_LIST = 'ADD_VIDEO_LIST';
+export const GET_VIDEO_LIST = 'GET_VIDEO_LIST';
+export const DELETE_VIDEO_LIST = 'DELETE_VIDEO_LIST';
